@@ -1,0 +1,69 @@
+{
+  "name": "NFC通用校园卡_2025-09-16_15-39-40",
+  "owner_uuid": "d7a8ecc33dab448983bc1468d24af4ae",
+  "creator_uuid": "d7a8ecc33dab448983bc1468d24af4ae",
+  "created_at": "2026-11-11 23:14:54",
+  "updated_at": "2026-11-11 23:14:54",
+  "modifier_uuid": "d7a8ecc33dab448983bc1468d24af4ae",
+  "content": "",
+  "archive": false,
+  "cbb_project": 0,
+  "thumb": "",
+  "ticket": 1,
+  "g_ticket": 1,
+  "boards": [],
+  "block_symbol_attrs_groups": {},
+  "default_sheet": "",
+  "branch_uuid": "",
+  "pcb_count": 0,
+  "format": "folder",
+  "config": {
+    "defaultSheet": "",
+    "settings": {}
+  },
+  "profile": {
+    "boards": {
+      "960a5d4d0823b7bc": {
+        "uuid": "960a5d4d0823b7bc",
+        "title": "Board1_1",
+        "zIndex": 1
+      }
+    },
+    "schematics": {
+      "7289b74ba45b4f9a877e734b6fdbaa2b": {
+        "uuid": "7289b74ba45b4f9a877e734b6fdbaa2b",
+        "name": "Schematic1_1",
+        "board": "960a5d4d0823b7bc",
+        "version": "1794996207453",
+        "updateTime": 1794996207453
+      }
+    },
+    "sheets": {
+      "eaaf468a888047ee8c952b9cf0cc2a56": {
+        "uuid": "eaaf468a888047ee8c952b9cf0cc2a56",
+        "title": "P1",
+        "schematic_uuid": "7289b74ba45b4f9a877e734b6fdbaa2b",
+        "zIndex": 1,
+        "version": "1794996207453",
+        "updateTime": 1794996207453
+      }
+    },
+    "pcbs": {
+      "1956b7286fa04155b37e40c6b26f994a": {
+        "uuid": "1956b7286fa04155b37e40c6b26f994a",
+        "title": "PCB1_1",
+        "board": "960a5d4d0823b7bc",
+        "parent_uuid": "",
+        "version": "1794999811245",
+        "updateTime": 1794999811245
+      }
+    },
+    "panels": {},
+    "blockSymbols": {},
+    "owner": {
+      "uuid": "d7a8ecc33dab448983bc1468d24af4ae"
+    },
+    "simSchematics": {},
+    "simulations": {}
+  }
+}
