@@ -47,5 +47,6 @@ NFC线圈电感大约为6.6μF。
 作者原创的设计文件、图案和文档按 CC BY-NC-SA 4.0 分享。欢迎个人学习、打样和修改。再发布时请保留署名、附许可链接并标明修改，改版按相同方式共享。商业使用需另行授权。校名、校标及其他第三方素材的权利归各自权利人。详见[许可说明](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)。
 
 本版设计与整理：叶宗豪（Felix Ye）。[作者主页](https://1zonghao.github.io/personal-web)
+
 如果您觉得还不错，可以随缘请我喝杯咖啡~
-| ![WeChat Pay](show/wechat-pay.png) |
+<img src="show/wechat-pay.png" alt="微信赞赏码" width="240">
