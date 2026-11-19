@@ -1,12 +1,18 @@
+<br/>
+<div align="center">
+  
 # 浙江科技大学 NFC校园卡
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/LICENSE-CC_BY--NC--SA_4.0-brightgreen.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-更适合浙科大宝宝体质的无源 NFC 校园卡😄。卡面结合校训与校园建筑线稿，电路由 PCB 天线、CUID 模块和感应LED指示灯组成。
-如有定制或代贴片需求可通过主页邮箱联系📫。
+
+更适合浙科大宝宝体质的无源 NFC 校园卡😄。卡面结合校训与校园建筑线稿，电路由 PCB 天线、CUID 模块和感应LED指示灯组成。如有定制或代贴片需求可通过主页邮箱联系📫。
+</div>
 
 ![嘉立创紫正面预览](show/嘉立创紫正面.png)
 
 紫色方案正面。右侧为校训，下方为校园建筑轮廓，左上角设有挂绳槽。
 
+  
 ## 电路
 
 ![天线、CUID 与 LED 接线原理图](show/原理图.png)
