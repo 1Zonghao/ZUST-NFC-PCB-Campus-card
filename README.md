@@ -5,7 +5,7 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/LICENSE-CC_BY--NC--SA_4.0-brightgreen.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
-更适合浙科大宝宝体质的无源 NFC 校园卡😄。卡面结合校训与校园建筑线稿，电路由 PCB 天线、CUID 模块和感应LED指示灯组成。如有定制或代贴片需求可通过主页邮箱联系📫。
+零成本复刻！更适合浙科大宝宝体质的无源 NFC 校园卡😄。卡面结合校训与校园建筑线稿，电路由 PCB 天线、CUID 模块和感应LED指示灯组成。如有定制或代贴片需求可通过主页邮箱联系📫。
 </div>
 
 ![嘉立创紫正面预览](show/嘉立创紫正面.png)
@@ -49,10 +49,12 @@ NFC线圈电感大约为6.6μF。
 - **验证样板**：可先装 CUID 测试读卡，再装 LED，用同一读卡器和方向复测读距。
 
 ## 作者与许可
-
 作者原创的设计文件、图案和文档按 CC BY-NC-SA 4.0 分享。欢迎个人学习、打样和修改。再发布时请保留署名、附许可链接并标明修改，改版按相同方式共享。商业使用需另行授权。校名、校标及其他第三方素材的权利归各自权利人。详见[许可说明](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)。
+
+### 喜欢这个项目，请为我点个Star ⭐
+[![Star History Chart](https://api.star-history.com/image?repos=1Zonghao/ZUST-NFC-PCB-Campus-card&type=Date)](https://star-history.com/#1Zonghao/ZUST-NFC-PCB-Campus-card&Date)
 
 本版设计与整理：叶宗豪（Felix Ye）。[作者主页](https://1zonghao.github.io/personal-web)
 
-如果您觉得还不错，可以随缘请我喝杯咖啡~
+## 如果您觉得还不错，可以随缘请我喝杯咖啡~
 <img src="show/wechat-pay.png" alt="微信赞赏码" width="240">
