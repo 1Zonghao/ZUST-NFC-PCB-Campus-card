@@ -1,12 +1,15 @@
 <br/>
 <div align="center">
-  
+
 # 浙江科技大学 NFC校园卡
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/LICENSE-CC_BY--NC--SA_4.0-brightgreen.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/1Zonghao/ZUST-NFC-PCB-Campus-card?style=social)](https://github.com/1Zonghao/ZUST-NFC-PCB-Campus-card/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/1Zonghao/ZUST-NFC-PCB-Campus-card?style=social)](https://github.com/1Zonghao/ZUST-NFC-PCB-Campus-card/network/members)
 [![GitHub last commit](https://img.shields.io/github/last-commit/1Zonghao/ZUST-NFC-PCB-Campus-card)](https://github.com/1Zonghao/ZUST-NFC-PCB-Campus-card/commits)
 
+<br/>
+
+[![在立创开源硬件平台查看校园卡项目](https://img.shields.io/badge/立创开源硬件平台-查看项目_↗-7C3AED?style=for-the-badge&logo=kicad&logoColor=white&labelColor=292443)](https://oshwhub.com/leavesnb/project_efbngqhd)  
 
 零成本复刻！更适合浙科大宝宝体质的无源 NFC 校园卡😄。卡面结合校训与校园建筑线稿，电路由 PCB 天线、CUID 模块和感应LED指示灯组成。如有定制或代贴片需求可通过主页邮箱联系📫。
 </div>
