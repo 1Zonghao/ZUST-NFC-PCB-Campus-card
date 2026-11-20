@@ -60,7 +60,7 @@ NFC线圈电感大约为6.6μF。
 ### 喜欢这个项目，请为我点个Star ⭐
 [![Star History Chart](https://api.star-history.com/chart?repos=1Zonghao/ZUST-NFC-PCB-Campus-card&type=date&legend=top-left)](https://www.star-history.com/?type=date&repos=1Zonghao%2FZUST-NFC-PCB-Campus-card)
 
-## 如果您觉得还不错，可以随缘请我喝杯咖啡❤~
+## 如果对您有帮助，可以随缘请我喝杯咖啡❤~
 <br/>
 <div align="center">
 <img src="show/wechat-pay.png" alt="微信赞赏码" width="240"><img src="show/Hello.png" alt="me" width="360">
